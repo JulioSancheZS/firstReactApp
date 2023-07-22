@@ -1,5 +1,7 @@
 # Primeros pasos en React 
+
 ¡Bienvenido a este README sobre mis primeros pasos en React utilizando Vites!
+#
 ![Descripción de la imagen](/src/assets/img/02.png)
 ## Conceptos Principales
 
