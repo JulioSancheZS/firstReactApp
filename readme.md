@@ -1,9 +1,6 @@
-# Primeros pasos en React utilizando Vite
-
-![Descripción de la imagen](/src/assets/img/02.png)
-
+# Primeros pasos en React 
 ¡Bienvenido a este README sobre mis primeros pasos en React utilizando Vites!
-
+![Descripción de la imagen](/src/assets/img/02.png)
 ## Conceptos Principales
 
 En este documento, exploraremos los conceptos fundamentales de React que me ayudarán a construir aplicaciones web modernas y dinámicas. Algunos de los principales conceptos que aprendí son:
